@@ -11,5 +11,5 @@ def subtract(x):
 
 
 # var=
-# result = add(2, 2)
-# print(f"esta es la suma: 1,2 {result}")
+result = add(1)
+print("esta es la suma: 1, %s"% result)
